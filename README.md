@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **milosz.chodkowski@student.put.poznan.pl**
 
-- ⚡ Fun fact **The fire hydrant patent was lost in a fire.**
+- ⚡ Fun fact: **The fire hydrant patent was lost in a fire.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
