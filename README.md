@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mlchodkowski" target="blank"><img align="center" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="mlchodkowski" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10548486" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="10548486" height="30" width="40" /></a>
+<a href="https://twitter.com/mlchodkowski" target="blank"><img align="center" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="mlchodkowski" height="40" width="50" /></a>
+<a href="https://stackoverflow.com/users/10548486" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="10548486" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
