@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miłosz</h1>
-<h3 align="center">A passionate bioinformatician.</h3>
+<h3 align="center">Bioinformatics scientist, data scientist. Gamer, music enthusiast, volounteer firefighter.</h3>
 
 - 🔭 I’m currently working on [Jasper-VH](https://github.com/777moneymaker/jasper)
 
@@ -8,8 +8,6 @@
 - 👨‍💻 All of my projects are available at: [https://github.com/777moneymaker](https://github.com/777moneymaker)
 
 - 💬 Ask me about: **Python, C#, Bioinformatics**
-
-- 📫 How to reach me: **milosz.chodkowski@student.put.poznan.pl**
 
 - ⚡ Fun fact: **The fire hydrant patent was lost in a fire.**
 
