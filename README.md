@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miłosz</h1>
 <h3 align="center">Software developer focused on Bioinformatics, Data Science and ML. Gamer, music enthusiast, street photographer.</h3>
+<h3 align="center">I'm currently working in Poznan Supecomputing and Networking Center as a Software Developer/Bioinformatician</h3>
 
 - 🔭 I’m currently working on **my M.Sc. thesis**
 
